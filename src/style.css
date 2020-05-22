@@ -1,8 +1,20 @@
 /* purgecss start ignore */
 @tailwind base;
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 body {
   height: 100vh;
+  font-family: 'Inter', sans-serif;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply text-xl font-semibold;
+  margin-top: 10px;
 }
 
 h1 {
@@ -10,11 +22,11 @@ h1 {
 }
 
 h2 {
-  @apply text-xl font-bold;
+  @apply text-xl font-semibold;
 }
 
 h3 {
-  @apply font-bold;
+  @apply font-semibold;
 }
 
 a {
@@ -44,11 +56,12 @@ hr {
 }
 
 blockquote {
-  @apply py-1 px-4 mb-4 border-l-2 border-blue-500;
+  @apply py-1 px-4 mb-4 border-l-2;
+  border-color: #00C78B;
 }
 
 blockquote p {
-  @apply m-0 font-serif text-xl;
+  @apply m-0 text-lg;
 }
 
 code {
