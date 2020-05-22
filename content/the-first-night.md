@@ -1,5 +1,5 @@
 ---
-title: Deny Trauma
+title: The First Night
 ---
 
 We often think that people can't change or somehow their present life was determined by their past. The fact is people can change. No matter how bad their past experiences are. There is a word called *determinism*, it means that we try to explain everything with *cause and effect* through our past experiences. This means that our future has been determined by our past. The thing that we can do is focus on *present goals* instead of *past experiences*.
