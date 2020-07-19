@@ -11,3 +11,4 @@ I'm learning to [[Write]] more this year. I am planning to use this note to writ
 Currently:
 - Summarizing [[The Courage to be Disliked]]
 - Reading How to Take Smart Notes
+- Writing [[Morning Pages]]

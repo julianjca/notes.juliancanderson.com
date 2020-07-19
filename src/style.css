@@ -61,7 +61,7 @@ blockquote {
 }
 
 blockquote p {
-  @apply m-0 text-lg;
+  @apply m-0 text-base;
 }
 
 code {
