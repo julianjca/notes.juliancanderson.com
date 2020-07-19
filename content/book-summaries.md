@@ -7,3 +7,4 @@ I learned from [David Perell](https://twitter.com/david_perell) that summarizing
 https://twitter.com/david_perell/status/1229625219058413568
 
 - [[The Courage to be Disliked]]
+- [[How to Take Smart Notes - Sönke Ahrens]]

@@ -44,7 +44,12 @@ p {
 }
 
 ul {
+  margin-top: 0.75em;
   @apply list-disc pl-6;
+}
+
+ul li {
+  margin-bottom: 0.5em;
 }
 
 hr {
